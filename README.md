@@ -1,2 +1,2 @@
 # hello-world
-Open-source depository
+Open-source course depository
